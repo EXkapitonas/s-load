@@ -5,7 +5,7 @@ A simpel loadingscreen i made with some different loadingscreens
 
 How to change backgrund
 First go into the css folder and right click on the keks.css and then edit whit you personal favorite code program
-When you are in the file then you change the url on the background-image: url(https://wallpaperset.com/w/full/9/d/3/529316.jpg);
+When you are in the file then you change the url on the background-image: url(https://images.hdqwalls.com/download/small-memory-8k-2a-1920x1080.jpg);
 												
 																		this link you need to change ^^
 
