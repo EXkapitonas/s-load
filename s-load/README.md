@@ -1,7 +1,8 @@
 # Trolling_Seagull Loadscreen
 A simpel loadingscreen i made with some different loadingscreens
  
- 
+How to change the volume at row 40 in index.html
+myAudio.volume = 0.1;
 
 How to change backgrund
 First go into the css folder and right click on the keks.css and then edit whit you personal favorite code program
